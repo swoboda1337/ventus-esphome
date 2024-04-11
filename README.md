@@ -1,4 +1,4 @@
-Code taken from random source, quality is questionable, wrapped it in component for someone, haven't had time to clean it up.  
+Code taken from random source, quality is questionable, wrapped it in component for someone else, haven't had time to clean it up.  
   
     external_components:
       - source:
