@@ -1,4 +1,4 @@
-Code taken from random source, quality is questionable, wrapped it in component for someone else, haven't cleaned it up, no hardware to test with
+ESPHome Ventus W132 wind sensor, code taken from random source, quality is questionable, wrapped it in component for someone else, haven't cleaned it up, no hardware to test with
   
     external_components:
       - source:
